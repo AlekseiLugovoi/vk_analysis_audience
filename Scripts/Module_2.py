@@ -5,7 +5,7 @@ import pandas as pd
 
 
 # Сервисный ключ доступа
-access_token = '****'
+access_token = '***'
 
 
 def url_request(id, field="none"):
